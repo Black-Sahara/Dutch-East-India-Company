@@ -1,0 +1,17 @@
+abbreviation: TE
+available: false
+classes: 2064
+colour: 106
+id: 5
+label: TEAL
+longName: tea
+name: Tea
+penaltyLength: 118
+penaltyLowerBound: 32
+price: 2056
+sprite:
+  filename: cargoes/tea.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
